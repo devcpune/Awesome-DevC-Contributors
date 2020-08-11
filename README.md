@@ -1,4 +1,4 @@
-# Awesome-DevC-Contributors
+# Awesome DevC Contributors
 This the place to showcase contribtions of our awesome community members.
 ## List of our awesome contributors
 

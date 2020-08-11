@@ -1,5 +1,5 @@
 # Awesome DevC Contributors
-This the place to showcase contribtions of our awesome community members.
+This is the place to showcase contributions of our awesome community members.
 ## List of our awesome contributors
 
 | Github username | Number of contrbutions | Link for contributions |

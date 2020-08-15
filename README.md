@@ -4,7 +4,7 @@ This is the place to showcase contributions of our awesome community members.
 
 | Github username | Number of contrbutions | Link for contributions |
 | ----- | --- | ---- |
-| [@anon](https://github.com/anon) | # | [PR heading](https://github.com/anon/some-repo/pull#) |
+<!-- End of Leaderbaord-->
 
 ## How to add your contribution
 Follow the [contribution guidelines](CONTRIBUTING.md)

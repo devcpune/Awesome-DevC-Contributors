@@ -11,5 +11,4 @@ Follow the [contribution guidelines](CONTRIBUTING.md)
 
 ## Important Links
 
-- [devcpune.github.io](https://devcpune.github.io/)
 - [Facebook Developer Circle: Pune](https://www.facebook.com/groups/DevCPune/)

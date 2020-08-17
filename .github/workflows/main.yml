@@ -2,7 +2,7 @@ name: add-project
 # This workflow gets executed when someone opens an issue for adding a project
 on:
   issues:
-      types: [opened,edited]
+      types: [opened]
 jobs:
    add_project_job:
     name: add-project

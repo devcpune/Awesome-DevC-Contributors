@@ -13,7 +13,7 @@ jobs:
     - name: A job to add or update a project
       id: addProject
       run: | 
-        echo "::set-output name=issue_comment::`python3 adding_project.py '${{ github.event.issue.title }}' '${{ github.event.issue.body }}'`"
+        echo "::set-output name=issue_comment::`python3 adding_contribution.py '${{ github.event.issue.title }}' '${{ github.event.issue.body }}'`"
         python3 add-name.py '${{ github.event.issue.title }}' '${{ github.event.issue.body }}'
         git config user.name shriaas2898
         git add .

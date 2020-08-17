@@ -1,0 +1,27 @@
+name: add-project
+# This workflow gets executed when someone opens an issue for adding a project
+on:
+  issues:
+      types: [opened,edited]
+jobs:
+   add_project_job:
+    name: add-project
+    runs-on: ubuntu-latest
+    steps:
+    - name: setup directory
+      uses: actions/checkout@v2
+    - name: A job to add or update a project
+      id: addProject
+      run: | 
+        echo "::set-output name=issue_comment::`python3 add-name.py '${{ github.event.issue.title }}' '${{ github.event.issue.body }}'`"
+        python3 add-name.py '${{ github.event.issue.title }}' '${{ github.event.issue.body }}'
+        git config user.name shriaas2898
+        git add .
+        git commit -m "Added: ${{ github.event.issue.title }}"
+        git push
+    - name: Close Issue
+      if: always()
+      uses: peter-evans/close-issue@v1
+      with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: ${{ steps.addProject.outputs.issue_comment }}

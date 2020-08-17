@@ -4,7 +4,7 @@ This is the place to showcase contributions of our awesome community members.
 
 | Name | Number of Contributions | Link of Contribution|
 | --- | --- | --- |
-| [@awesomec0ntribut0r](https://github.io/awesomec0ntribut0r) | 2 | <details> <summary>List of Contributions </summary> - [Added awesome feature](https://github.com/awesome-person/new-repo/pull/4) <br> - [Fixed documentation](https://github.com/awesome-person/new-repo/pull/7) <br></details> |
+| [@awesomec0ntribut0r](https://github.com/awesomec0ntribut0r) | 5 | <details> <summary>List of Contributions </summary> - [Added awesome feature](https://github.com/awesome-person/new-repo/pull/4) <br> - [Fixed documentation](https://github.com/awesome-person/new-repo/pull/7) <br> - [More fixes](https://github.com/another-awesome-person/new-repo/pull/5) <br> - [Major fix](https://github.com/another-awesome-person/new-repo/pull/232) <br> - [Minor fix](https://github.com/another-awesome-person/new-repo/pull/34) <br></details> |
 <!-- End of Leaderbaord-->
 
 ## How to add your contribution

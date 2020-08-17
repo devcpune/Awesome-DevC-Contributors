@@ -1,1 +1,9 @@
-{}
+{
+  "awesomec0ntribut0r": {
+    "count": 2,
+    "contributions": {
+      "Added awesome feature": "https://github.com/awesome-person/new-repo/pull/4",
+      "Fixed documentation": "https://github.com/awesome-person/new-repo/pull/7"
+    }
+  }
+}

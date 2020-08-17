@@ -1,12 +1,1 @@
-{
-  "awesomec0ntribut0r": {
-    "count": 5,
-    "contributions": {
-      "Added awesome feature": "https://github.com/awesome-person/new-repo/pull/4",
-      "Fixed documentation": "https://github.com/awesome-person/new-repo/pull/7",
-      "More fixes": "https://github.com/another-awesome-person/new-repo/pull/5",
-      "Major fix": "https://github.com/another-awesome-person/new-repo/pull/232",
-      "Minor fix": "https://github.com/another-awesome-person/new-repo/pull/34"
-    }
-  }
-}
+{}

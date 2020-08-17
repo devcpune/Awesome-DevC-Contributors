@@ -6,7 +6,8 @@ Follow these guidelines to add your contributions to the leaderboard:
 ![new cotributor issue template](Screenshots/new-cotributor-issue-template.png)
 - Add your contribution:
   - Change 'username' in title to your username
-  - Add name and link to your Pull Request in plain text, please do not use any       formatting syntax. You can add as many PRs as you want here.
+  - Add name and link to your Pull Request in plain text, please do not use any formatting syntax. You can add as many PRs as you want here.
+  
   ![new cotributor issue example](Screenshots/new-cotributor-issue-example.png)
   - Submit the issue. And wait for notification.
   - If everything goes fine your issue will be closed and you will find something like this: 

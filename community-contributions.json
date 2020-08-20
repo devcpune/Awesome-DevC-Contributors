@@ -7,5 +7,11 @@
       "dded CODE_OF_CONDUCT.md": "https://github.com/devcpune/devcpune.github.io/pull/4",
       "it: need a space after the dot in the message (before \"Make\")": "https://github.com/facebook/codemod/pull/118"
     }
+  },
+  "AJV009": {
+    "count": 1,
+    "contributions": {
+      "Update DevCGlobalDirectory.md": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/86"
+    }
   }
 }

@@ -11,6 +11,17 @@
       "Update README.md": "https://github.com/matiassingers/awesome-readme/pull/135"
     }
   },
+  "Nitish-Awasthi": {
+    "count": 6,
+    "contributions": {
+      "Bot replies fixes in src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/117",
+      "Updated src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/115",
+      "UPDATED hydra/website/versioned_docs/version-0.11/intro.md": "https://github.com/facebookresearch/hydra/pull/865",
+      "hydra/website/docs/intro.md UPDATED": "https://github.com/facebookresearch/hydra/pull/864",
+      "Updated rome/README.md": "https://github.com/romefrontend/rome/pull/897",
+      "Typescript Language Specification amended": "https://github.com/microsoft/TypeScript/pull/40120"
+    }
+  },
   "bhadreshpsavani": {
     "count": 4,
     "contributions": {

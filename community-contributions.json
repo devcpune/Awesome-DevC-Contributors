@@ -1,4 +1,21 @@
 {
+  "AJV009": {
+    "count": 13,
+    "contributions": {
+      "Update DevCGlobalDirectory.md": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/74",
+      "Create README.md": "https://github.com/AnujVijjan/Major-Notes/pull/1",
+      "Update README.md": "https://github.com/devcpune/solid-doodle/pull/13",
+      "Minor corrections in CONTRIBUTING.md": "https://github.com/devcpune/kaleidoscope/pull/10",
+      "Grammar patch 1 (.md)": "https://github.com/pytorch/pytorch/pull/41599",
+      "Update #2": "https://github.com/AJV009/pytorch/pull/2",
+      "Quick Update #1": "https://github.com/AJV009/pytorch/pull/1",
+      "Update CONTRIBUTING.md": "https://github.com/pytorch/pytorch/pull/41584",
+      "Update CHANGELOG.md": "https://github.com/facebookresearch/hydra/pull/787",
+      "rebase_n_readme_fix": "https://github.com/AnujVijjan/Flappy-Bird-Game/pull/1",
+      "DevC:Pune Link fix!": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/42",
+      "certs": "https://github.com/gpnagar/Img2txt/pull/1"
+    }
+  },
   "bhadreshpsavani": {
     "count": 4,
     "contributions": {
@@ -6,12 +23,6 @@
       "Updated contributing.md": "https://github.com/devcpune/kaleidoscope/pull/6",
       "dded CODE_OF_CONDUCT.md": "https://github.com/devcpune/devcpune.github.io/pull/4",
       "it: need a space after the dot in the message (before \"Make\")": "https://github.com/facebook/codemod/pull/118"
-    }
-  },
-  "AJV009": {
-    "count": 1,
-    "contributions": {
-      "Update DevCGlobalDirectory.md": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/86"
     }
   }
 }

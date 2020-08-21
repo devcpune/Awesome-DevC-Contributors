@@ -43,11 +43,5 @@
       "dded CODE_OF_CONDUCT.md": "https://github.com/devcpune/devcpune.github.io/pull/4",
       "it: need a space after the dot in the message (before \"Make\")": "https://github.com/facebook/codemod/pull/118"
     }
-  },
-  "shriaas": {
-    "count": 1,
-    "contributions": {
-      "Test": "https://github.com/link/test/pull/12"
-    }
   }
 }

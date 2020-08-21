@@ -25,6 +25,16 @@
       "Update README.md": "https://github.com/matiassingers/awesome-readme/pull/135"
     }
   },
+  "Yash-567" :{
+    "count" : 5,
+    "contributions" : {
+      "Added pip install guide for ParlAI": "https://github.com/facebookresearch/ParlAI/pull/2959",
+      "ClassyVision Typo": "https://github.com/facebookresearch/ClassyVision/pull/595",
+      "Added guidance for model compression task": "https://github.com/facebookresearch/fastText/pull/1113",
+      "Summer Internship 2021": "https://github.com/Pitt-CSC/Summer2021-Internships/pull/48",
+      "Detectron2 updated Write model with proper explanation": "https://github.com/facebookresearch/detectron2/pull/1876"
+    }
+  },
   "bhadreshpsavani": {
     "count": 4,
     "contributions": {

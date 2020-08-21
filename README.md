@@ -1,4 +1,4 @@
-## Awesome DevC Contributors
+# Awesome DevC Contributors
 This is the place to showcase contributions of our awesome community members.
 ## List of our awesome contributors  <img src="https://media.giphy.com/media/STlF2GH4HbeZAAXlq5/giphy.gif" width="30px">
 

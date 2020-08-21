@@ -19,7 +19,7 @@ jobs:
         git commit -m "Added: ${{ github.event.issue.title }}"
         git push
     - name: Close Issue
-      if: always()
+      if: startsWith( ${{ github.event.issue.title }},"add")||startsWith( ${{ github.event.issue.title }},"update") 
       uses: peter-evans/close-issue@v1
       with:
           issue-number: ${{ github.event.issue.number }}

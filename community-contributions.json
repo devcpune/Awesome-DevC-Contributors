@@ -25,9 +25,9 @@
       "Update README.md": "https://github.com/matiassingers/awesome-readme/pull/135"
     }
   },
-  "Yash-567" :{
-    "count" : 5,
-    "contributions" : {
+  "Yash-567": {
+    "count": 5,
+    "contributions": {
       "Added pip install guide for ParlAI": "https://github.com/facebookresearch/ParlAI/pull/2959",
       "ClassyVision Typo": "https://github.com/facebookresearch/ClassyVision/pull/595",
       "Added guidance for model compression task": "https://github.com/facebookresearch/fastText/pull/1113",
@@ -42,6 +42,12 @@
       "Updated contributing.md": "https://github.com/devcpune/kaleidoscope/pull/6",
       "dded CODE_OF_CONDUCT.md": "https://github.com/devcpune/devcpune.github.io/pull/4",
       "it: need a space after the dot in the message (before \"Make\")": "https://github.com/facebook/codemod/pull/118"
+    }
+  },
+  "shriaas": {
+    "count": 1,
+    "contributions": {
+      "Test": "https://github.com/link/test/pull/12"
     }
   }
 }

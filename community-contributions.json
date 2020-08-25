@@ -1,4 +1,20 @@
 {
+  "AJV009": {
+    "count": 11,
+    "contributions": {
+      "Update DevCGlobalDirectory.md": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/74",
+      "Grammar patch 1 (.md)": "https://github.com/pytorch/pytorch/pull/41599",
+      "Update #2": "https://github.com/AJV009/pytorch/pull/2",
+      "Quick Update #1": "https://github.com/AJV009/pytorch/pull/1",
+      "Update CONTRIBUTING.md #41584": "https://github.com/pytorch/pytorch/pull/41584",
+      "Update CHANGELOG.md #787": "https://github.com/facebookresearch/hydra/pull/787",
+      "rebase_n_readme_fix #1": "https://github.com/AnujVijjan/Flappy-Bird-Game/pull/1",
+      "Create README.md #1": "https://github.com/prkapadnis/Look-Based-Media-Player/pull/1",
+      "Update README.md #1": "https://github.com/dhananjay1438/google_keep_cli/pull/1",
+      "DevC:Pune Link fix! #42": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/42",
+      "Update README.md #2": "https://github.com/firmai/financial-machine-learning/pull/2"
+    }
+  },
   "Nitish-Awasthi": {
     "count": 10,
     "contributions": {

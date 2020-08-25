@@ -16,7 +16,7 @@
     }
   },
   "Nitish-Awasthi": {
-    "count": 10,
+    "count": 11,
     "contributions": {
       "Bot replies fixes in src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/117",
       "Updated src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/115",
@@ -27,7 +27,8 @@
       "Added my details to the list contributors.yaml": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/118",
       "Replaced blacklist with blocklist": "https://github.com/pytorch/pytorch/pull/42097",
       "Changed Blacklisted to Blocklisted": "https://github.com/pytorch/pytorch/pull/42100",
-      "Gif added": "https://github.com/devcpune/Awesome-DevC-Contributors/pull/26"
+      "Gif added": "https://github.com/devcpune/Awesome-DevC-Contributors/pull/26",
+      "reformatted and rectified document vmaf/README.md": "https://github.com/Netflix/vmaf/pull/656"
     }
   },
   "rutujak24": {

@@ -1,11 +1,13 @@
 ---
 name: New contributor
-about: Use this if you are contributing first time on this repo. Add as many contributions
-  as you like on separate lines with the following format.
-title: add|username
+about: Use this if you are contributing first time on this repo. Add links to as many contributions
+  as you like on separate lines.
+title: add|id
 labels: ''
 assignees: ''
 
 ---
-
-**Name:** <name-for-pr> | **Link**: <https://github.com/link-to-pr>
+Add Links to your PR like this:
+https://github.com/link-to-pr2
+https://github.com/link-to-pr
+**Note:** Do not use any type of formatting and make sure you delete default text before adding your contributions.

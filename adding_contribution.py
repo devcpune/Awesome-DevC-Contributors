@@ -88,7 +88,7 @@ def update_leaderboard(data,start_marker,end_marker,file_name,issue_number):
         records.append("</details> |\n")
     
     # Combining all the records in a final string
-    write_data =  write_data+"".join(records)+end_marker+f"New to the repository? click [here](https://github.com/shriaas2898/action-example/issues/new?assignees=&labels=&template=new-contributor.md&title=add|{issue_number}) to add your contribution.\n"
+    write_data =  write_data+"".join(records)+end_marker+f"New to the repository? click [here](https://github.com/devcpune/Awesome-DevC-Contributors/issues/new?assignees=&labels=&template=new-contributor.md&title=add|{issue_number}) to add your contribution.\n"
     write_data = write_data+"".join(read_data[end:])
 
     # Writing on README file
@@ -124,7 +124,7 @@ if __name__ == "__main__":
         
         # Update the leader board
         # Genrating issue number for the link 
-        repo = g.get_repo("shriaas2898/action-example")
+        repo = g.get_repo("devcpune/Awesome-DevC-Contributors")
         issues =  repo.get_issues(state='all')
         issue_number= list(issues)[0].number + 1 # The first element of issue list is the latest issue
         update_leaderboard(contr_data, '| Name | Number of Contributions | Link of Contribution|\n', '<!-- End of Leaderbaord-->\n', 'README.md',issue_number)        

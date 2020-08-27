@@ -12,8 +12,8 @@ This is the place to showcase contributions of our awesome community members.
 | [@bhadreshpsavani](https://github.io/bhadreshpsavani) | 4 | <details> <summary>List of Contributions </summary> - [Fixed broken link](https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/183) <br> - [Updated contributing.md](https://github.com/devcpune/kaleidoscope/pull/6) <br> - [dded CODE_OF_CONDUCT.md](https://github.com/devcpune/devcpune.github.io/pull/4) <br> - [it: need a space after the dot in the message (before "Make")](https://github.com/facebook/codemod/pull/118) <br></details> |
 <!-- End of Leaderbaord-->
 New to the repository? click [here](https://github.com/devcpune/Awesome-DevC-Contributors/issues/new?assignees=&labels=&template=new-contributor.md&title=add%7C0036) to add your contribution.
-## How to add your contribution
-Follow the [contribution guidelines](CONTRIBUTING.md)
+**OR**
+Follow the [contribution guidelines](CONTRIBUTING.md) to update existing contribution.
 
 ## Important Links
 

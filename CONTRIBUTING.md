@@ -14,7 +14,7 @@ Follow these guidelines to add your contributions to the leaderboard:
   - Edit the issue:
   ![updated contributor issue example](Screenshots/updated-contributor-issue-example.png)
   - Just keep the links of contributions in the issue body:
-   ![add contribution issue example](Screenshots/add-contribution-issue-example.png)
+   ![add contribution issue example](Screenshots/add-contribution-example.png)
 
 ### If you encounter any problem:
 - If you get an error message as a comment on your issue.

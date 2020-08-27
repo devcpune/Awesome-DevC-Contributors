@@ -1,5 +1,5 @@
 # Awesome DevC Contributors
-This is the place to showcase the contributions of our awesome community members during the FACEBOOK Open Source Immersion Program! 🚀🚀🚀
+This is the place to showcase the contributions of our awesome community members during the **FACEBOOK Open Source Immersion Program!** 🚀🚀🚀
 ## List of our awesome contributors  <img src="https://media.giphy.com/media/STlF2GH4HbeZAAXlq5/giphy.gif" width="30px">
 
 | Name | Number of Contributions | Link of Contribution|

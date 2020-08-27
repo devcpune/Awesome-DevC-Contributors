@@ -11,7 +11,7 @@ This is the place to showcase contributions of our awesome community members.
 | [@Yash-567](https://github.io/Yash-567) | 5 | <details> <summary>List of Contributions </summary> - [Added pip install guide for ParlAI](https://github.com/facebookresearch/ParlAI/pull/2959) <br> - [ClassyVision Typo](https://github.com/facebookresearch/ClassyVision/pull/595) <br> - [Added guidance for model compression task](https://github.com/facebookresearch/fastText/pull/1113) <br> - [Summer Internship 2021](https://github.com/Pitt-CSC/Summer2021-Internships/pull/48) <br> - [Detectron2 updated Write model with proper explanation](https://github.com/facebookresearch/detectron2/pull/1876) <br></details> |
 | [@bhadreshpsavani](https://github.io/bhadreshpsavani) | 4 | <details> <summary>List of Contributions </summary> - [Fixed broken link](https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/183) <br> - [Updated contributing.md](https://github.com/devcpune/kaleidoscope/pull/6) <br> - [dded CODE_OF_CONDUCT.md](https://github.com/devcpune/devcpune.github.io/pull/4) <br> - [it: need a space after the dot in the message (before "Make")](https://github.com/facebook/codemod/pull/118) <br></details> |
 <!-- End of Leaderbaord-->
-New to the repository? click [here](https://github.com/shriaas2898/action-example/issues/new?assignees=&labels=&template=new-contributor.md&title=add|0020) to add your contribution.
+New to the repository? click [here](https://github.com/devcpune/Awesome-DevC-Contributors/issues/new?assignees=&labels=&template=new-contributor.md&title=add%7C0036) to add your contribution.
 ## How to add your contribution
 Follow the [contribution guidelines](CONTRIBUTING.md)
 

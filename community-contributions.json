@@ -76,10 +76,11 @@
     }
   },
   "rutujadhanawade": {
-    "count": 3,
+    "count": 4,
     "contributions": {
-      "Update CONTRIBUTING.md": "https://github.com/facebook/codemod/pull/117",
+      "Update CONTRIBUTING.md": "https://github.com/devcpune/devcpune.github.io/pull/1",
       "added new books in book-section": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/147",
+      "Updated CONTRIBUTING.md to add code of conduct": "https://github.com/facebook/codemod/pull/117",
       "Add uplift-project documents": "https://github.com/Shubham230198/The-Uplift-Project-DSA/pull/42"
     }
   }

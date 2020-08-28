@@ -2,86 +2,86 @@
   "AJV009": {
     "count": 11,
     "contributions": {
-      "Update DevCGlobalDirectory.md": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/74",
-      "Grammar patch 1 (.md)": "https://github.com/pytorch/pytorch/pull/41599",
-      "Update #2": "https://github.com/AJV009/pytorch/pull/2",
-      "Quick Update #1": "https://github.com/AJV009/pytorch/pull/1",
-      "Update CONTRIBUTING.md #41584": "https://github.com/pytorch/pytorch/pull/41584",
-      "Update CHANGELOG.md #787": "https://github.com/facebookresearch/hydra/pull/787",
-      "rebase_n_readme_fix #1": "https://github.com/AnujVijjan/Flappy-Bird-Game/pull/1",
-      "Create README.md #1": "https://github.com/prkapadnis/Look-Based-Media-Player/pull/1",
-      "Update README.md #1": "https://github.com/dhananjay1438/google_keep_cli/pull/1",
-      "DevC:Pune Link fix! #42": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/42",
-      "Update README.md #2": "https://github.com/firmai/financial-machine-learning/pull/2"
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/74": "Update DevCGlobalDirectory.md",
+      "https://github.com/pytorch/pytorch/pull/41599": "Grammar patch 1 (.md)",
+      "https://github.com/AJV009/pytorch/pull/2": "Update #2",
+      "https://github.com/AJV009/pytorch/pull/1": "Quick Update #1",
+      "https://github.com/pytorch/pytorch/pull/41584": "Update CONTRIBUTING.md #41584",
+      "https://github.com/facebookresearch/hydra/pull/787": "Update CHANGELOG.md #787",
+      "https://github.com/AnujVijjan/Flappy-Bird-Game/pull/1": "rebase_n_readme_fix #1",
+      "https://github.com/prkapadnis/Look-Based-Media-Player/pull/1": "Create README.md #1",
+      "https://github.com/dhananjay1438/google_keep_cli/pull/1": "Update README.md #1",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/42": "DevC:Pune Link fix! #42",
+      "https://github.com/firmai/financial-machine-learning/pull/2": "Update README.md #2"
     }
   },
   "Nitish-Awasthi": {
     "count": 11,
     "contributions": {
-      "Bot replies fixes in src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/117",
-      "Updated src/services/messenger.py": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/115",
-      "UPDATED hydra/website/versioned_docs/version-0.11/intro.md": "https://github.com/facebookresearch/hydra/pull/865",
-      "hydra/website/docs/intro.md UPDATED": "https://github.com/facebookresearch/hydra/pull/864",
-      "Updated rome/README.md": "https://github.com/romefrontend/rome/pull/897",
-      "Typescript Language Specification amended": "https://github.com/microsoft/TypeScript/pull/40120",
-      "Added my details to the list contributors.yaml": "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/118",
-      "Replaced blacklist with blocklist": "https://github.com/pytorch/pytorch/pull/42097",
-      "Changed Blacklisted to Blocklisted": "https://github.com/pytorch/pytorch/pull/42100",
-      "Gif added": "https://github.com/devcpune/Awesome-DevC-Contributors/pull/26",
-      "reformatted and rectified document vmaf/README.md": "https://github.com/Netflix/vmaf/pull/656"
+      "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/117": "Bot replies fixes in src/services/messenger.py",
+      "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/115": "Updated src/services/messenger.py",
+      "https://github.com/facebookresearch/hydra/pull/865": "UPDATED hydra/website/versioned_docs/version-0.11/intro.md",
+      "https://github.com/facebookresearch/hydra/pull/864": "hydra/website/docs/intro.md UPDATED",
+      "https://github.com/romefrontend/rome/pull/897": "Updated rome/README.md",
+      "https://github.com/microsoft/TypeScript/pull/40120": "Typescript Language Specification amended",
+      "https://github.com/fbdevelopercircles/open-source-edu-bot/pull/118": "Added my details to the list contributors.yaml",
+      "https://github.com/pytorch/pytorch/pull/42097": "Replaced blacklist with blocklist",
+      "https://github.com/pytorch/pytorch/pull/42100": "Changed Blacklisted to Blocklisted",
+      "https://github.com/devcpune/Awesome-DevC-Contributors/pull/26": "Gif added",
+      "https://github.com/Netflix/vmaf/pull/656": "reformatted and rectified document vmaf/README.md"
     }
   },
   "rutujak24": {
     "count": 8,
     "contributions": {
-      "Content Changes": "https://github.com/facebookresearch/ClassyVision/pull/578",
-      "Grammer Updates": "https://github.com/facebookincubator/spectrum/pull/217",
-      "Grammatical Errors Corrected": "https://github.com/facebook/facebook-python-business-sdk/pull/570",
-      "Added Learning Resources": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/214",
-      "Corrected Errors": "https://github.com/nic-delhi/AarogyaSetu_Android/pull/505",
-      "Machine Learning Project": "https://github.com/devcpune/kaleidoscope/pull/11",
-      "Corrected Grammatical Errors": "https://github.com/devcpune/devcpune.github.io/pull/5",
-      "Python Code": "https://github.com/dotQuestionmark/Python4DS/pull/4"
+      "https://github.com/facebookresearch/ClassyVision/pull/578": "Content Changes",
+      "https://github.com/facebookincubator/spectrum/pull/217": "Grammer Updates",
+      "https://github.com/facebook/facebook-python-business-sdk/pull/570": "Grammatical Errors Corrected",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/214": "Added Learning Resources",
+      "https://github.com/nic-delhi/AarogyaSetu_Android/pull/505": "Corrected Errors",
+      "https://github.com/devcpune/kaleidoscope/pull/11": "Machine Learning Project",
+      "https://github.com/devcpune/devcpune.github.io/pull/5": "Corrected Grammatical Errors",
+      "https://github.com/dotQuestionmark/Python4DS/pull/4": "Python Code"
     }
   },
   "kkkkkabir": {
     "count": 7,
     "contributions": {
-      "Updated README.md with my name": "https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/93",
-      "Add Kabir Jain to Contributors list": "https://github.com/firstcontributions/first-contributions/pull/29649",
-      "Added a machine learning website to Blogs section": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/223",
-      "Added hackathons section": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/113",
-      "Removed link \"Google Reskilling India Program Pluralsight\"": "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1281",
-      "Update CONTRIBUTORS.md": "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1280",
-      "Update README.md": "https://github.com/matiassingers/awesome-readme/pull/135"
+      "https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/93": "Updated README.md with my name",
+      "https://github.com/firstcontributions/first-contributions/pull/29649": "Add Kabir Jain to Contributors list",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/223": "Added a machine learning website to Blogs section",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/113": "Added hackathons section",
+      "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1281": "Removed link \"Google Reskilling India Program Pluralsight\"",
+      "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1280": "Update CONTRIBUTORS.md",
+      "https://github.com/matiassingers/awesome-readme/pull/135": "Update README.md"
     }
   },
   "Yash-567": {
     "count": 5,
     "contributions": {
-      "Added pip install guide for ParlAI": "https://github.com/facebookresearch/ParlAI/pull/2959",
-      "ClassyVision Typo": "https://github.com/facebookresearch/ClassyVision/pull/595",
-      "Added guidance for model compression task": "https://github.com/facebookresearch/fastText/pull/1113",
-      "Summer Internship 2021": "https://github.com/Pitt-CSC/Summer2021-Internships/pull/48",
-      "Detectron2 updated Write model with proper explanation": "https://github.com/facebookresearch/detectron2/pull/1876"
+      "https://github.com/facebookresearch/ParlAI/pull/2959": "Added pip install guide for ParlAI",
+      "https://github.com/facebookresearch/ClassyVision/pull/595": "ClassyVision Typo",
+      "https://github.com/facebookresearch/fastText/pull/1113": "Added guidance for model compression task",
+      "https://github.com/Pitt-CSC/Summer2021-Internships/pull/48": "Summer Internship 2021",
+      "https://github.com/facebookresearch/detectron2/pull/1876": "Detectron2 updated Write model with proper explanation"
     }
   },
   "bhadreshpsavani": {
     "count": 4,
     "contributions": {
-      "Fixed broken link": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/183",
-      "Updated contributing.md": "https://github.com/devcpune/kaleidoscope/pull/6",
-      "dded CODE_OF_CONDUCT.md": "https://github.com/devcpune/devcpune.github.io/pull/4",
-      "it: need a space after the dot in the message (before \"Make\")": "https://github.com/facebook/codemod/pull/118"
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/183": "Fixed broken link",
+      "https://github.com/devcpune/kaleidoscope/pull/6": "Updated contributing.md",
+      "https://github.com/devcpune/devcpune.github.io/pull/4": "dded CODE_OF_CONDUCT.md",
+      "https://github.com/facebook/codemod/pull/118": "it: need a space after the dot in the message (before \"Make\")"
     }
   },
   "rutujadhanawade": {
     "count": 4,
     "contributions": {
-      "Update CONTRIBUTING.md": "https://github.com/devcpune/devcpune.github.io/pull/1",
-      "added new books in book-section": "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/147",
-      "Updated CONTRIBUTING.md to add code of conduct": "https://github.com/facebook/codemod/pull/117",
-      "Add uplift-project documents": "https://github.com/Shubham230198/The-Uplift-Project-DSA/pull/42"
+      "https://github.com/devcpune/devcpune.github.io/pull/1": "Update CONTRIBUTING.md",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/147": "added new books in book-section",
+      "https://github.com/Shubham230198/The-Uplift-Project-DSA/pull/42": "Add uplift-project documents",
+      "https://github.com/facebook/codemod/pull/117": "Updated CONTRIBUTING.md to add code of conduct"
     }
   }
 }

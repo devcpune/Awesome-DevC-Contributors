@@ -117,7 +117,7 @@ if __name__ == "__main__":
             link = link.strip()
             title = get_pr_title(link,username,start_date,end_date,g)
             # Adding PR to the dictionary
-            pr_dict[title] = link
+            pr_dict[link] = title
         
         # For adding new record 
         contr_data = add_record(contr_data,username,pr_dict)

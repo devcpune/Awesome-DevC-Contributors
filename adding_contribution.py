@@ -83,7 +83,7 @@ def update_leaderboard(data,start_marker,end_marker,file_name,issue_number):
     # Building string for record 
     for usr,info in data.items():
         records.append(f"| [@{usr}](https://github.io/{usr}) | {info['count']} | <details> <summary>List of Contributions </summary>")
-        for pr, link in info["contributions"].items():
+        for link, pr in info["contributions"].items():
             records.append(f" - [{pr}]({link}) <br>")
         records.append("</details> |\n")
     

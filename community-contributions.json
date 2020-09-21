@@ -31,6 +31,22 @@
       "https://github.com/Netflix/vmaf/pull/656": "reformatted and rectified document vmaf/README.md"
     }
   },
+  "rutujak24": {
+    "count": 11,
+    "contributions": {
+      "https://github.com/rutujak24/markdown-portfolio/pull/1": "Add images links",
+      "https://github.com/fbdevelopercircles/FbDevcCommunityContent/pull/214": "Learning Resources",
+      "https://github.com/rutujak24/markdown-portfolio/pull/2": "Add theme",
+      "https://github.com/facebookresearch/ClassyVision/pull/578": "Content Changes",
+      "https://github.com/pytorch/pytorch/pull/42076": "Grammar Changes",
+      "https://github.com/facebook/facebook-python-business-sdk/pull/570": "Grammatical Errors Corrected",
+      "https://github.com/nic-delhi/AarogyaSetu_Android/pull/505": "Grammar",
+      "https://github.com/jtleek/datasharing/pull/766": "Grammar Updates",
+      "https://github.com/devcpune/kaleidoscope/pull/11": "Machine Learning Project",
+      "https://github.com/devcpune/devcpune.github.io/pull/5": "Corrected Grammatical Errors",
+      "https://github.com/facebookincubator/spectrum/pull/217": "Grammar Changes"
+    }
+  },
   "kkkkkabir": {
     "count": 7,
     "contributions": {
@@ -41,16 +57,6 @@
       "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1281": "Removed link \"Google Reskilling India Program Pluralsight\"",
       "https://github.com/dipakkr/A-to-Z-Resources-for-Students/pull/1280": "Update CONTRIBUTORS.md",
       "https://github.com/matiassingers/awesome-readme/pull/135": "Update README.md"
-    }
-  },
-  "rutujak24": {
-    "count": 5,
-    "contributions": {
-      "https://github.com/rutujak24/markdown-portfolio/pull/1": "Add images links",
-      "https://github.com/facebook/facebook-python-business-sdk/pull/570": "Grammatical Errors Corrected",
-      "https://github.com/rutujak24/markdown-portfolio/pull/2": "Add theme",
-      "https://github.com/devcpune/kaleidoscope/pull/11": "Machine Learning Project",
-      "https://github.com/facebookresearch/ClassyVision/pull/578": "Content Changes"
     }
   },
   "Yash-567": {
